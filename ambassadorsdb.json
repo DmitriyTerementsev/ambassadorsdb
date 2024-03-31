@@ -1,0 +1,309 @@
+[
+    {
+      "id": "f60300e1-7484-4e06-8a4f-51963db6a949",
+      "telegram": "test_coder",
+      "name": "Лебедева Алина Игоревна",
+      "status": "active",
+      "onboarding_status": false,
+      "sex": "w",
+      "education_goal": {
+        "id": 2,
+        "title": "Углубление имеющихся знаний, чтобы использовать их в текущей работе"
+      },
+      "country": "Россия",
+      "city": "Екатеринбург",
+      "address": "пр. Технологический, д. 56, кв. 789",
+      "index": "620045",
+      "email": "alina.lebedeva@example.com",
+      "phone": "+7 922 567 89 01",
+      "current_work": "Digital Innovations LLC",
+      "education": "Высшее инженерно-техническое",
+      "blog_link": "alina-coding-journey.com",
+      "clothing_size": "XS",
+      "foot_size": "37",
+      "comment": "Тестовый профиль с реалистичными данными для проверки функционала системы с различными входными данными.",
+      "ambassador_goals": [
+        {
+          "id": 4,
+          "title": "Снимать видео или сниматься в них, если продакшн будет на нашей стороне"
+        },
+        {
+          "id": 6,
+          "title": "Давать консультации и рассказывать всем про Практикум"
+        }
+      ],
+      "course": {
+        "id": 4,
+        "title": "Веб-разработчик"
+      },
+      "created": "2024-02-25T00:00:00+03:00",
+      "updated": "2024-03-21T10:28:47.954077+03:00",
+      "promo": [],
+      "guide_content": 1,
+      "content": [
+        {
+          "id": "8d02f704-1753-48e6-b9b7-6a3a153fc8f7",
+          "link": null,
+          "file": null,
+          "created": "2024-03-12T09:42:08.381435+03:00",
+          "updated": "2024-03-12T09:42:08.381465+03:00"
+        }
+      ]
+    },
+    {
+      "id": "e958c1ca-64ec-46bc-b612-97364788a471",
+      "telegram": "test_engineer",
+      "name": "Соколова Мария Алексеевна",
+      "status": "pending",
+      "onboarding_status": true,
+      "sex": "w",
+      "education_goal": {
+        "id": 2,
+        "title": "Углубление имеющихся знаний, чтобы использовать их в текущей работе"
+      },
+      "country": "Россия",
+      "city": "Новосибирск",
+      "address": "пер. Технический, д. 12, кв. 345",
+      "index": "630123",
+      "email": "maria.sokolova@example.com",
+      "phone": "+7 913 876 54 32",
+      "current_work": "QA Experts Group",
+      "education": "Высшее тестирование программного обеспечени",
+      "blog_link": "maria-tester-insights.com",
+      "clothing_size": "XS",
+      "foot_size": "38",
+      "comment": "Тестовый профиль с разнообразными данными для проверки различных аспектов системы.",
+      "ambassador_goals": [
+        {
+          "id": 1,
+          "title": "Вести блог"
+        },
+        {
+          "id": 3,
+          "title": "Писать статьи"
+        }
+      ],
+      "course": {
+        "id": 7,
+        "title": "Маркетинг"
+      },
+      "created": "2024-02-25T00:00:00+03:00",
+      "updated": "2024-03-21T10:29:12.789582+03:00",
+      "promo": [
+        {
+          "id": 6,
+          "value": "PROMOCODE6",
+          "status": "archived"
+        },
+        {
+          "id": 57,
+          "value": "SUPERPROMO",
+          "status": "archived"
+        },
+        {
+          "id": 64,
+          "value": "PROMO22",
+          "status": "active"
+        }
+      ],
+      "guide_content": 2,
+      "content": [
+        {
+          "id": "1c896412-b46d-407d-91f3-9dde20c8a609",
+          "link": "https://dzen.ru/a/XxnLWi_rJ3H2M2hW",
+          "file": null,
+          "created": "2024-03-11T14:53:46.317189+03:00",
+          "updated": "2024-03-11T14:53:46.317232+03:00"
+        },
+        {
+          "id": "920a1c9e-58bd-4159-bffb-9b49a124137e",
+          "link": "https://dzen.ru/a/XxnLWi_rJ3H2M2hW",
+          "file": "",
+          "created": "2024-03-11T14:53:20.463862+03:00",
+          "updated": "2024-03-11T14:53:20.464903+03:00"
+        }
+      ]
+    },
+    {
+      "id": "680e42a2-a4d2-4d8e-900b-539c36a5a303",
+      "telegram": "coding_explorer",
+      "name": "Кузнецов Игорь Дмитриевич",
+      "status": "paused",
+      "onboarding_status": true,
+      "sex": "Unknown",
+      "education_goal": {
+        "id": 1,
+        "title": "Получение новой профессии, чтобы сменить работу"
+      },
+      "country": "Украина",
+      "city": "Львов",
+      "address": "ул. Программистов, д. 67, кв. 890",
+      "index": "790123",
+      "email": "igor.kuznetsov@example.com",
+      "phone": "+380 68 901 23 45",
+      "current_work": "CodeCrafters LLC",
+      "education": "Высшее информатика",
+      "blog_link": "igor-code-adventures.org",
+      "clothing_size": "XS",
+      "foot_size": "42",
+      "comment": "Тестовый профиль с реалистичными данными, идеально подходящий для тестирования функционала связанного с программированием.",
+      "ambassador_goals": [
+        {
+          "id": 1,
+          "title": "Вести блог"
+        },
+        {
+          "id": 3,
+          "title": "Писать статьи"
+        },
+        {
+          "id": 6,
+          "title": "Давать консультации и рассказывать всем про Практикум"
+        }
+      ],
+      "course": {
+        "id": 12,
+        "title": "IT-рекрутер"
+      },
+      "created": "2024-02-25T00:00:00+03:00",
+      "updated": "2024-03-21T10:29:28.402427+03:00",
+      "promo": [
+        {
+          "id": 7,
+          "value": "PROMOCODE7",
+          "status": "archived"
+        },
+        {
+          "id": 31,
+          "value": "GIT2323",
+          "status": "archived"
+        },
+        {
+          "id": 32,
+          "value": "GIT222",
+          "status": "archived"
+        },
+        {
+          "id": 58,
+          "value": "NEWSUPERPROMO",
+          "status": "active"
+        }
+      ],
+      "guide_content": 2,
+      "content": [
+        {
+          "id": "3b685b8f-43f3-4080-9dd5-510dbfceb166",
+          "link": "https://habr.com/ru/articles/794556/",
+          "file": null,
+          "created": "2024-02-27T00:00:00+03:00",
+          "updated": "2024-02-27T00:00:00+03:00"
+        },
+        {
+          "id": "cc673cf5-9bdd-4c8d-a155-8971bb113ced",
+          "link": "https://x.com/jetbrains/status/1762430749406306638?s=20",
+          "file": null,
+          "created": "2024-02-27T00:00:00+03:00",
+          "updated": "2024-02-27T00:00:00+03:00"
+        }
+      ]
+    },
+    {
+      "id": "e40ada25-7542-4327-9007-ef26266db60c",
+      "telegram": "testing_guru",
+      "name": "Жукова Ольга Владимировна",
+      "status": "paused",
+      "onboarding_status": true,
+      "sex": "w",
+      "education_goal": {
+        "id": 1,
+        "title": "Получение новой профессии, чтобы сменить работу"
+      },
+      "country": "Россия",
+      "city": "Красноярск",
+      "address": "пр. Тестовый, д. 89, кв. 567",
+      "index": "660567",
+      "email": "olga.zhukova@example.com",
+      "phone": "+7 952 345 67 89",
+      "current_work": "Quality Assurance Experts Ltd",
+      "education": "Высшее тестирование программного обеспечения",
+      "blog_link": "olga-testing-insights.com",
+      "clothing_size": "XS",
+      "foot_size": "39",
+      "comment": "Тестовый профиль с разнообразными данными для эффективного тестирования различных аспектов системы.",
+      "ambassador_goals": [
+        {
+          "id": 1,
+          "title": "Вести блог"
+        },
+        {
+          "id": 3,
+          "title": "Писать статьи"
+        }
+      ],
+      "course": {
+        "id": 21,
+        "title": "Коммерческий иллюстратор"
+      },
+      "created": "2024-02-25T00:00:00+03:00",
+      "updated": "2024-03-21T10:29:41.637331+03:00",
+      "promo": [
+        {
+          "id": 9,
+          "value": "PROMOCODE9",
+          "status": "archived"
+        }
+      ],
+      "guide_content": "4",
+      "content": [
+        {
+          "id": "2634273f-c8b6-4834-b0a5-5c7d589ba33c",
+          "link": "https://habr.com/ru/articles/792790/",
+          "file": null,
+          "created": "2024-03-11T05:34:17.015186+03:00",
+          "updated": "2024-03-11T05:34:17.015248+03:00"
+        },
+        {
+          "id": "3410810e-691f-440c-b861-c7a071f7932b",
+          "link": "https://habr.com/ru/articles/788434/",
+          "file": null,
+          "created": "2024-02-27T00:00:00+03:00",
+          "updated": "2024-02-27T00:00:00+03:00"
+        },
+        {
+          "id": "794e6bf6-a75c-408a-8a58-ac8dee4c1c6d",
+          "link": "https://habr.com/ru/companies/ruvds/articles/792052/",
+          "file": null,
+          "created": "2024-02-27T00:00:00+03:00",
+          "updated": "2024-02-27T00:00:00+03:00"
+        },
+        {
+          "id": "24fedbb9-3f4b-4953-b1e3-4ed5f47574bb",
+          "link": "https://habr.com/ru/news/788132/",
+          "file": null,
+          "created": "2024-02-27T00:00:00+03:00",
+          "updated": "2024-02-27T00:00:00+03:00"
+        },
+        {
+          "id": "cc2ac43b-5642-416e-9874-e1cf823ab163",
+          "link": "https://habr.com/ru/articles/792790/",
+          "file": null,
+          "created": "2024-02-27T00:00:00+03:00",
+          "updated": "2024-02-27T00:00:00+03:00"
+        },
+        {
+          "id": "eefb7d95-f568-4a6b-94ca-efecad5c342b",
+          "link": "https://habr.com/ru/companies/raft/articles/786738/",
+          "file": null,
+          "created": "2024-02-27T00:00:00+03:00",
+          "updated": "2024-02-27T00:00:00+03:00"
+        },
+        {
+          "id": "cb9a1db2-55ff-4b0a-b080-d791c45b2c12",
+          "link": "https://habr.com/ru/articles/789550/",
+          "file": null,
+          "created": "2024-02-27T00:00:00+03:00",
+          "updated": "2024-02-27T00:00:00+03:00"
+        }
+      ]
+    }
+  ]
